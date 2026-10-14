@@ -1,0 +1,11 @@
+title: dtorn-ai-protocols
+description: "Промпты, протоколы, скиллы и кейсы взаимодействия с LLM"
+url: "https://yakut-ua.github.io"
+baseurl: "/dtorn-ai-protocols"
+theme: minima
+lang: ru
+timezone: Europe/Kyiv
+permalink: /blog/:year/:month/:day/:title/
+exclude:
+  - README.md
+  - LICENSE
