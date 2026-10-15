@@ -1,0 +1,8 @@
+.welcome-languages { text-align: right; margin-bottom: 1.5rem; font-size: .9rem; }
+.welcome-chat { margin: 1.25rem 0 2.5rem; padding: 1rem; border: 1px solid #e2e5e9; border-radius: 16px; background: #fff; color: #24343d; overflow-wrap: anywhere; }
+.welcome-user { margin-left: auto; max-width: 85%; padding: .9rem 1.1rem; border-radius: 16px 16px 4px 16px; background: #f0f2f4; }
+.welcome-assistant { margin-top: 1.1rem; padding: 0 .4rem; }
+.welcome-label { display: block; margin-bottom: .45rem; font-size: .78rem; color: #59636e; }
+.welcome-chat p { margin: 0 0 .8rem; }
+.welcome-chat p:last-child { margin-bottom: 0; }
+@media (max-width: 600px) { .welcome-chat { padding: .8rem; } .welcome-user { max-width: 100%; margin-left: 0; } }
