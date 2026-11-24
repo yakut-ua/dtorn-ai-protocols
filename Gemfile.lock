@@ -1,0 +1,4 @@
+bundle update
+git add Gemfile Gemfile.lock
+git commit -m "deps: add Gemfile for Cloudflare build"
+git push origin main
